@@ -15,7 +15,7 @@ A simple CLI weather app in Python that fetches and displays weather data using 
 ## Setup Instructions
 1. Clone the repository or download the source code
    git clone https://github.com/kumudoon/weather-app
-   cd weather-application
+   cd weather-app
 2. Install dependencies
    pip install -r requirements.txt
 
