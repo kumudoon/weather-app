@@ -13,8 +13,6 @@ def main():
         print(f"Temperature   : {weather.get('temperature', 'N/A')}°C")
         print(f"Windspeed     : {weather.get('windspeed', 'N/A')} km/h")
         print(f"Wind direction: {weather.get('winddirection', 'N/A')}°")
-        print(f"Weather code  : {weather.get('weathercode', 'N/A')}")
-        print(f"Time          : {weather.get('time', 'N/A')}")
     except ValueError as ve:
         # Handles non-existing city error from get_coordinates
         print(f"Error: {ve}")
