@@ -4,7 +4,7 @@ A simple CLI weather app in Python that fetches and displays weather data using 
 # Features
 - Input city name via command line
 - Fetch current weather details from API
-- These are Tempertaure, Wind speed, Wind direction, Weather code and Time
+- These are Tempertaure, Wind speed, Wind direction
 - Clean and user-friendly output
 - Unit-tested with pytest
 
